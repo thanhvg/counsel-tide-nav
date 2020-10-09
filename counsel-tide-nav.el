@@ -1,3 +1,5 @@
+;;; counsel-tide-nav.el --- Ivy interface to tide-nav -*- lexical-binding: t -*-
+
 (require 'ivy)
 (require 'tide)
 

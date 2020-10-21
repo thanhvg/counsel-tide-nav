@@ -47,3 +47,5 @@
 (ivy-configure 'counsel-tide-nav
   :display-transformer-fn
   #'counsel-tide-nav--get-name)
+
+(provide 'counsel-tide-nav)
